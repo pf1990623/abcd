@@ -1,0 +1,36 @@
+body{
+	font-family: Arial, Helvetica, 微软雅黑,sans-serif;
+}
+.logo{
+	background: url(../images/logo.png) no-repeat 0px 0px;
+	height: 40px;
+}
+
+a{
+	color:#666;
+	text-decoration: none;
+}
+a:hover{
+	color:#A1A1A1;
+}
+h2{
+	font-size: 20px;
+	font-weight: normal;
+	width: 500px;
+	line-height: 30px;
+	color:white;
+	background-color: #666;
+}
+h3{
+	font-size: 16px;
+}
+.content{
+	line-height: 20px;
+	font-size:14px;
+	letter-spacing: 1px;
+	text-indent: 30px;
+	width: 500px;
+}
+ul{
+	list-style: url('../images/icon.gif') ;
+}

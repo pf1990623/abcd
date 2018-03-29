@@ -1,0 +1,32 @@
+/*font-style使用*/
+.p-font { font :italic bold 20px arial,sans-serif;}
+/*font-weight使用*/
+
+.strong-normal{
+font-weight: normal;
+}
+.p-bold{
+font-weight: bold;
+}
+/*font-style使用*/
+.em-normal{
+font-style: normal;
+}
+.p-italic{
+font-style: italic;
+}
+/*font-size使用*/
+.size-px{
+font-size: 32px;
+}
+
+.size-percent{
+font-size: 200%;
+}
+/*font-family使用*/
+.ss{
+font-family: Arial, Helvetica, 微软雅黑,sans-serif;
+}
+.s{
+font-family: Georgia, 'Times New Roman', 宋体,Times ,serif;
+}

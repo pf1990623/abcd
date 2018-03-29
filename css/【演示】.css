@@ -1,0 +1,45 @@
+body{
+/* 	background-color: #E3E3E5;
+background-image: url(../images/logo.png);
+background-repeat: no-repeat;
+background-position: 20px 20px; */
+background: #E3E3E5 url(../images/logo.png) no-repeat 20px 20px;
+}
+p{
+	/*font-family: 'Times New Roman',Georgia,宋体,serif;*/
+	font-family: Arial,Helvetica,微软雅黑,sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: green;
+	line-height: 2;
+	letter-spacing: 2px;
+	text-indent: 40px;
+}
+h1{
+	/*font-weight: normal;*/
+	font:normal 40px  宋体;
+	color: red;
+	/* color: #0000ff; */
+	/* color: rgb(255,0,255); */
+	text-align: center;
+	text-decoration: underline;
+}
+a{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+ul{
+	/* list-style-image: url(../images/icon.gif); */
+	/* list-style-type: circle;
+	list-style-position: outside; */
+	list-style: circle  outside; 
+}
+ol{
+	list-style-type: upper-alpha;
+	list-style-position: inside;
+}
+}

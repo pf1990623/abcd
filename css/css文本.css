@@ -1,0 +1,83 @@
+﻿/*color使用*/
+.p-red{
+	color:red;
+}
+.p-16{
+	color:#ff0000;
+}
+.p-rgb{
+	color:rgb(255,0,0);
+}
+.p-rgba
+{
+	color:rgba(255,0,0,0.5);
+}
+/*line-height使用*/
+.lh-px{
+ 	line-height: 30px;
+ 	margin: 0px;
+ 	padding: 0px;
+}
+.lh-num{
+ 	line-height: 3;
+ 	margin: 0px;
+ 	padding: 0px;
+}
+.lh-percent{
+ 	line-height: 200%;
+ 	margin: 0px;
+ 	padding: 0px;
+}
+/*letter-spacing使用*/
+.ls{
+	letter-spacing: 5px;
+}
+/*text-align使用*/
+.align-left{
+	text-align: left;
+}
+.align-center{
+	text-align: center;
+}
+.align-right{
+	text-align: right;
+}
+/*text-decoration使用*/
+.dec-none{
+	text-decoration: none;
+}
+.dec-over{
+	text-decoration: overline;
+}
+.dec-under{
+	text-decoration:underline;
+}
+.dec-through{
+	text-decoration:line-through;
+}
+/*text-indent使用*/
+.indent{
+	text-indent: 20px;
+	width: 200px;
+}
+/*text-transform使用*/
+.trans-cap{
+	text-transform: capitalize;
+}
+.trans-up{
+	text-transform: uppercase;
+}
+.trans-low{
+	text-transform: lowercase;
+}
+/*white-space使用*/
+.ws-normal{
+	white-space: normal;
+	width: 200px;
+	border:1px solid;
+}
+.ws-nowrap{
+	white-space: nowrap;
+	width: 200px;
+	border:1px solid;
+}

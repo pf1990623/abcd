@@ -1,0 +1,31 @@
+/*list-style-image*/
+.ls-image{
+	list-style-image: url(../images/icon.gif);
+}
+/*list-style-type*/
+.ls-type{
+	list-style-type: circle;
+}
+.ls-type-num{
+	list-style-type: decimal;
+}
+/*list-style-position*/
+.ls-position-inside{
+	list-style-position: inside;
+	list-style-type: decimal;
+	border:1px solid;
+	margin: 0;
+	padding: 0;
+}
+.ls-position-outside{
+	list-style-position: outside;
+	list-style-type: decimal;
+	border:1px solid;
+}
+/*list-style*/
+.ls{
+	list-style: outside url(../images/icon.gif) ; 
+	border:1px solid;
+	margin-left:  10px;
+	padding: 0;
+}
